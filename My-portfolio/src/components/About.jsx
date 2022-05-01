@@ -21,7 +21,7 @@ export default function About() {
             <div className='about-me-summary'>
                 <p> Hi, I am Sunita Sabale . I am from Pune,Maharashtra. 
             I have completed my education in Electronics and Telecommunication Engineering from Pune university.
-             I have inrested in technical skills so I joined  Masai School. 
+             I have an interest in technical skills so I joined  Masai School. 
              I am  Efficient, dedicated, work-oriented aspiring Full Stack Web Developer eager to offer
               superb analytical skills. Looking for opportunity to improve skills in high quality environment 
               and to help cranscape meet its website development challenges by leveraging broad web development experience.

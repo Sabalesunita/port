@@ -47,7 +47,7 @@ export default function Profile() {
 
                   </h1>
                   <span className="profile-role-tagline">
-                  Passionate , work-oriented  & innovative Full Stack Web Developer.Adaptable to any environment , committed to achieving organizational goals.
+                  Passionate , work-oriented  & innovative Full Stack Web Developer. Adaptable to any environment , committed to achieving organizational goals.
  
                   </span>
               </span>
