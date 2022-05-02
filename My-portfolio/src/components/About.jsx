@@ -19,18 +19,15 @@ export default function About() {
             </div>
             <div className='aboutme-text-section'>
             <div className='about-me-summary'>
-                <p> Hi, I am Sunita Sabale . I am from Pune,Maharashtra. 
-            I have completed my education in Electronics and Telecommunication Engineering from Pune university.
-             I have an interest in technical skills so I joined  Masai School. 
-             I am  Efficient, dedicated, work-oriented aspiring Full Stack Web Developer eager to offer
-              superb analytical skills. Looking for opportunity to improve skills in high quality environment 
-              and to help cranscape meet its website development challenges by leveraging broad web development experience.
+                <p> Hi, I am Sunita Sabale . I am from Pune, Maharashtra. I have completed my education in Electronics and Telecommunication Engineering from Pune University. I have an interest in technical skills so I joined Masai School. 
+                    I am an efficient, dedicated, work-oriented aspiring Full Stack Web Developer eager to offer superb analytical skills. 
+                    Looking for opportunities to improve skills in a high-quality environment and to help cranscape meet its website development challenges by leveraging broad web development experience.
            </p>
             </div>
             <div className='about-me-highlight'>
                 <h3>Here are a Few Highlights:</h3>
                 <ul>
-                    <li className='aboutme-highlighted-text'>Full Stack web development</li>
+                    <li className='aboutme-highlighted-text'>Full-Stack web development</li>
                     <li className='aboutme-highlighted-text'>Interactive Front End as per the design</li>
                     <li className='aboutme-highlighted-text'>React for building user interfaces </li>
                     <li className='aboutme-highlighted-text'>Managing database</li>
